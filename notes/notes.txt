@@ -1,0 +1,12 @@
+*---------------------
+NOTES SIMPLES
+---------------------*
+A_violon.wav : La
+C_piano.wav : Do
+
+*---------------------
+ENCHAINEMENTS
+---------------------*
+LaLaLand.wav: Fa, La, Si, Do, Si, La, Mi
+montee.wav : Fa, Sol, La, Si, C, Ré, Mi, Fa
+montee_chromatique.wav : Do, Ré, Mi, Fa, Sol, La, Si, Do
